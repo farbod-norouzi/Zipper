@@ -6,5 +6,5 @@ To learn how to use the program, first see the seeme.zip file
 - Linux
 
 # Communication with the programmer
-- Email : rsepineal@gmail.com
+- Email : norouzif556@gmail.com
 - Telegram : https://t.me/farbod_mi & https://t.me/farbod_mi1
